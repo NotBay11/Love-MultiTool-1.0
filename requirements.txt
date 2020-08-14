@@ -1,0 +1,6 @@
+requests
+colored
+dnspython
+random
+nmap
+re
