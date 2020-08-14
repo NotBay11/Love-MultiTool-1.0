@@ -4,3 +4,4 @@ dnspython
 random
 nmap
 re
+colored
