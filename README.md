@@ -9,4 +9,4 @@ Love MultiTool 1.0 contains options including: Pinger, DoS, Nmap Scan, Dns Looku
 # Installation
   • python3 -m pip install -r requirements.txt
 
-~ NotGigioh & Bay_
+~ NotGigioh and Bay_
