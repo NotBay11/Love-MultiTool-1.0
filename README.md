@@ -4,5 +4,4 @@ We hope you like it, and we hope you use it.
 
 To use it first download python 3.4+, then the packages found in requirements.txt
 
-~ NotGigioh
-~ Bay_
+~ NotGigioh & Bay_
